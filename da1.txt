@@ -1,3 +1,8 @@
 B23 is learning git
 
 we just made out first commit
+
+
+Git keep trck of changes
+from the last point you made
+commit till the current change you make.
